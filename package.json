@@ -1,0 +1,17 @@
+{
+  "name": "postcss7-wrap-by-mq",
+  "version": "1.0.3",
+  "description": "",
+  "main": "postcss7-wrap-by-mq.js",
+  "scripts": {
+    "prepublishOnly": "npm version patch --force"
+  },
+  "files": [
+    "*.js"
+  ],
+  "author": "Pilipenko Igor @dryymoon",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^7.0.0"
+  }
+}
